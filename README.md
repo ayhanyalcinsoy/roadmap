@@ -1,4 +1,3 @@
-*Roadmap for Pisi Linux
 1. Creating new toolchain for Gcc 5.3.0 (January 2017)
 2. Update and rebuild core repo with new toolchain (February 2017)
 3. Uefi support for YALI (February 2017)
