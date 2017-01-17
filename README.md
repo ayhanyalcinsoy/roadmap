@@ -1,5 +1,5 @@
 #Roadmap for Pisi 2.0
-1. Creating new toolchain for Gcc 5.3.0 by Ertugrul Erata (January 2017)
+1. Creating new toolchain for Gcc 6.3.0 by Ertugrul Erata (January 2017)
 2. Update/rebuild core and main repo with new toolchain by Pisi Team (February 2017)
 3. Uefi support for YALI by İlker Manap (February 2017)
 4. Qt  update to 5.7.1 by Ayhan Yalçınsoy(February 2017)
